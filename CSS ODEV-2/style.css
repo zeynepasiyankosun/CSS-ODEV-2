@@ -1,0 +1,27 @@
+.img-orta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; 
+  }
+  header {
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+.img {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  .group {
+    display: inline-block;
+    margin-right: 100px;
+    text-align: center;
+    margin: 0px;
+    padding: 80px;
+    background-color: rgb(167, 247, 217)
+  }
+  
+footer {
+    text-align: center;
+}
